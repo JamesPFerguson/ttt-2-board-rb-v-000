@@ -3,8 +3,9 @@ board = []
 
 i = 0
 loop do
-board[0] = ' ';
+board[i] = " ";
 i++
 if i == 8
   break
+end
 end
